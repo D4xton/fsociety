@@ -9,7 +9,7 @@ echo -e '\033[31;40;1m
 ██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║
 ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝   v4
   Coded by D4xton
-  github: Dont have one yet :(
+  github: github.com/D4xton
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m D4xton
 
 \e[37m[1]\e[36m Requests & Updates          \e[37m[2]\e[36m Phishing Tool
