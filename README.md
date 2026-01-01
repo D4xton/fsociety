@@ -1,6 +1,6 @@
 # fsociety Hacking tool
-fsociety is an all in one hacking tool that has a lot of tools to explore or to hack yourself (use this for educational purposes only)
-if used on someone without permission will result in illegal consequences
+fsociety is an all in one hacking tool that has a lot of tools to explore or to hack yourself. (use this for educational purposes only)
+if used on someone without permission will result in illegal consequences.
 please dont steal the code without permission.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to install on linux (based off debian like kali linux, ubuntu, ETC
