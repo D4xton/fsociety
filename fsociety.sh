@@ -188,7 +188,7 @@ bash info.sh
 
 elif [[ $islem == 15 || $islem == 015 ]]; then
 clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
+echo -e "\033[47;3;35m Installation may take some time.\033[0m"
 sleep 3
 cd Tools
 sudo apt-get update
